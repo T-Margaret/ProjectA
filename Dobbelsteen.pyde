@@ -3,12 +3,16 @@ import time
 
 number = randint(1,4)
 
+'''
+dit is niet nodig om het te laten werken, daarom staat het nu als comment
+
 def roll_number():
   print('Rolling...')
   time.sleep(0.5)
   print(number)
 
 roll_number() 
+'''
 
 def draw_die():
     if number == 1:

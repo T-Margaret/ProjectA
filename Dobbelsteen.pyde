@@ -1,3 +1,8 @@
+# Wat er nog bij moet
+# Eerst 'Rolling...' weergeven en dan de dobbelsteen
+# Klikken op de dobbelsteen zorgt dat er opnieuw wordt gegooid
+
+
 from random import randint
 import time
 

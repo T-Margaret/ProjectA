@@ -44,3 +44,12 @@ def draw_die():
         ellipse(65,65,10,10)
 
 draw_die()
+
+'''
+turn = 0
+global_turn = 0
+players = (number of players)
+
+if turn % players == 0:
+    global_turn += 1
+'''
